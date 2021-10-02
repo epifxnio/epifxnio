@@ -12,6 +12,6 @@ My name is Maria.
 
 ## More about me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=054f77&link=LINK_LINKEDIN)](https://www.linkedin.com/in/maria-l-40980a124)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=Instagram&logoColor=e2725b&link=LINK_INSTAGRAM)](https://www.instagram.com/epifxnio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=00aceelink=LINK_TWITTER)](https://twitter.com/epifxnio)
+[![G-mail Badge](https://img.shields.io/badge/-mlel1@aluno.ifal.edu.br-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlel1@aluno.ifal.edu.br)](mailto:mlel1@aluno.ifal.edu.br)
+[![Linkedin Badge](https://img.shields.io/badge/-epifxnio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/epifxnio/)](https://www.linkedin.com/in/epifxnio/)
+[![Instagram Badge](https://img.shields.io/badge/-epifxnio-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/epifxnio/)](https://www.instagram.com/epifxnio/)
